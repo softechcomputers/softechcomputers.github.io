@@ -1,1 +1,0 @@
-# softechcomputers.github.io
