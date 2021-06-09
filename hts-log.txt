@@ -1,0 +1,51 @@
+HTTrack3.49-2+htsswf+htsjava launched on Wed, 09 Jun 2021 18:17:08 at https://softechcomputers.org.in/ +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qwC2%Pns2u1%s%uN100%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" https://softechcomputers.org.in/ -O1 "C:\My Web Sites\web" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+18:17:13	Warning: 	Note: due to https://softechcomputers.org.in remote robots.txt rules, links beginning with these path will be forbidden: /wp-admin/ (see in the options to disable this)
+18:19:54	Warning: 	Moved Permanently for s.w.org/robots.txt
+18:19:54	Warning: 	File has moved from s.w.org/robots.txt to https://wordpress.org/
+18:19:54	Warning: 	Moved Permanently for s.w.org/
+18:19:54	Warning: 	File has moved from s.w.org/ to https://wordpress.org/
+18:23:23	Warning: 	Retry after error -4 (No data (connection closed)) at link https://softechcomputers.org.in/wp-content/uploads/2020/10/badge-1-300x227.png (from https://softechcomputers.org.in/)
+18:23:23	Warning: 	Warning: store text/css without scan: C:/My Web Sites/web/xfn/default.css
+18:23:23	Warning: 	Warning: store text/html without scan: C:/My Web Sites/web/xfn/.html
+18:23:23	Warning: 	Warning: store text/html without scan: C:/My Web Sites/web/xfn/intro.html
+18:23:23	Warning: 	Warning: store text/html without scan: C:/My Web Sites/web/xfn/faq.html
+18:23:25	Warning: 	Moved Permanently for https://softechcomputers.org.in/?p=349
+18:23:25	Warning: 	File has moved from https://softechcomputers.org.in/?p=349 to https://softechcomputers.org.in/about-us/
+18:23:25	Warning: 	Moved Permanently for https://softechcomputers.org.in/?p=834
+18:23:25	Warning: 	File has moved from https://softechcomputers.org.in/?p=834 to https://softechcomputers.org.in/courses-offered/it-courses/
+18:23:25	Warning: 	Moved Permanently for https://softechcomputers.org.in/?p=837
+18:23:25	Warning: 	File has moved from https://softechcomputers.org.in/?p=837 to https://softechcomputers.org.in/courses-offered/computer-courses/
+18:23:25	Warning: 	Moved Permanently for https://softechcomputers.org.in/?p=839
+18:23:25	Warning: 	File has moved from https://softechcomputers.org.in/?p=839 to https://softechcomputers.org.in/courses-offered/networking-courses/
+18:23:25	Warning: 	Moved Permanently for https://softechcomputers.org.in/?p=882
+18:23:25	Warning: 	File has moved from https://softechcomputers.org.in/?p=882 to https://softechcomputers.org.in/courses-offered/cad-courses/
+18:23:25	Warning: 	Retry after error -4 (No data (connection closed)) at link https://softechcomputers.org.in/wp-content/uploads/2020/11/4_project_management.png (from https://softechcomputers.org.in/courses-offered/cad-courses/)
+18:23:25	Warning: 	Retry after error -4 (No data (connection closed)) at link https://softechcomputers.org.in/wp-content/uploads/2020/12/4_primavera.jpg (from https://softechcomputers.org.in/courses-offered/cad-courses/)
+18:23:25	Warning: 	Retry after error -4 (No data (connection closed)) at link https://softechcomputers.org.in/wp-content/uploads/2020/12/10_mining.jpg (from https://softechcomputers.org.in/courses-offered/cad-courses/)
+18:23:26	Warning: 	Retry after error -4 (No data (connection closed)) at link https://softechcomputers.org.in/wp-content/uploads/2020/12/12_municipality.jpg (from https://softechcomputers.org.in/courses-offered/cad-courses/)
+18:23:29	Warning: 	Moved Permanently for https://softechcomputers.org.in/?p=883
+18:23:29	Warning: 	File has moved from https://softechcomputers.org.in/?p=883 to https://softechcomputers.org.in/courses-offered/exclusive-individual-courses/
+18:23:29	Warning: 	Moved Permanently for https://softechcomputers.org.in/?p=884
+18:23:29	Warning: 	File has moved from https://softechcomputers.org.in/?p=884 to https://softechcomputers.org.in/courses-offered/multimedia-courses/
+18:23:29	Warning: 	Moved Permanently for https://softechcomputers.org.in/?p=807
+18:23:29	Warning: 	File has moved from https://softechcomputers.org.in/?p=807 to https://softechcomputers.org.in/gallery/
+18:23:29	Warning: 	Moved Permanently for https://softechcomputers.org.in/?p=29
+18:23:29	Warning: 	File has moved from https://softechcomputers.org.in/?p=29 to https://softechcomputers.org.in/get-in-touch/
+18:23:29	Warning: 	Moved Permanently for https://softechcomputers.org.in/?p=1093
+18:23:29	Warning: 	File has moved from https://softechcomputers.org.in/?p=1093 to https://softechcomputers.org.in/softech-computers/
+18:23:29	Warning: 	Moved Permanently for https://softechcomputers.org.in/?p=687
+18:23:29	Warning: 	File has moved from https://softechcomputers.org.in/?p=687 to https://softechcomputers.org.in/setwin/
+18:23:29	Warning: 	Moved Permanently for https://softechcomputers.org.in/?p=800
+18:23:29	Warning: 	File has moved from https://softechcomputers.org.in/?p=800 to https://softechcomputers.org.in/english-courses/
+18:23:29	Warning: 	Moved Permanently for https://softechcomputers.org.in/?p=498
+18:23:29	Warning: 	File has moved from https://softechcomputers.org.in/?p=498 to https://softechcomputers.org.in/enroll-now/
+
+HTTrack Website Copier/3.49-2 mirror complete in 6 minutes 21 seconds : 424 links scanned, 401 files written (44065438 bytes overall) [43118817 bytes received at 113172 bytes/sec], 1451083 bytes transferred using HTTP compression in 20 files, ratio 26%, 6.4 requests per connection
+(No errors, 40 warnings, 0 messages)

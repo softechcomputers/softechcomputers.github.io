@@ -1,24 +1,24 @@
 <!DOCTYPE html>
 <html class="html" lang="en-US" prefix="og: https://ogp.me/ns#">
 
-<!-- Mirrored from softechcomputers.org.in/ by HTTrack Website Copier/3.x [XR&CO'2014], Wed, 09 Jun 2021 11:18:56 GMT -->
+<!-- Mirrored from softechcomputers.org.in/ by HTTrack Website Copier/3.x [XR&CO'2014], Wed, 09 Jun 2021 12:47:14 GMT -->
 <!-- Added by HTTrack --><meta http-equiv="content-type" content="text/html;charset=UTF-8" /><!-- /Added by HTTrack -->
 <head>
 	<meta name="google-site-verification" content="Ohc0_cRj-MW_w-t3VbFltH0MQ3WOnQpOdAYZE7zSSuY" />
 	<meta charset="UTF-8">
-	<link rel="profile" href="../gmpg.org/xfn/11.html">
+	<link rel="profile" href="xfn/11.html">
 
 	<meta name="viewport" content="width=device-width, initial-scale=1">
 <!-- Search Engine Optimization by Rank Math - https://s.rankmath.com/home -->
 <title>Home Page - Softech Computers</title>
 <meta name="description" content="Learn how to gain or improve your skills at any time in your career.We offer you everything that you need to acquire today&#039;s skills. We provide you a broad"/>
 <meta name="robots" content="index, follow, max-snippet:-1, max-video-preview:-1, max-image-preview:large"/>
-<link rel="canonical" href="index.html" />
+<link rel="canonical" href="index-2.html" />
 <meta property="og:locale" content="en_US">
 <meta property="og:type" content="website">
 <meta property="og:title" content="Home Page - Softech Computers">
 <meta property="og:description" content="Learn how to gain or improve your skills at any time in your career.We offer you everything that you need to acquire today&#039;s skills. We provide you a broad">
-<meta property="og:url" content="index.html">
+<meta property="og:url" content="index-2.html">
 <meta property="og:site_name" content="Softech Computers">
 <meta property="og:updated_time" content="2021-05-18T10:57:56+00:00">
 <meta name="twitter:card" content="summary_large_image">
@@ -27,7 +27,7 @@
 <script type="application/ld+json" class="rank-math-schema">{"@context":"https://schema.org","@graph":[{"@type":["EducationalOrganization","Organization"],"@id":"https://softechcomputers.org.in/#organization","name":"Softech Computers","url":"https://softechcomputers.org.in","logo":{"@type":"ImageObject","@id":"https://softechcomputers.org.in/#logo","url":"https://softechcomputers.org.in/wp-content/uploads/2020/10/cropped-logo-1.jpg","caption":"Softech Computers","inLanguage":"en-US","width":"1900","height":"753"}},{"@type":"WebSite","@id":"https://softechcomputers.org.in/#website","url":"https://softechcomputers.org.in","name":"Softech Computers","publisher":{"@id":"https://softechcomputers.org.in/#organization"},"inLanguage":"en-US","potentialAction":{"@type":"SearchAction","target":"https://softechcomputers.org.in/?s={search_term_string}","query-input":"required name=search_term_string"}},{"@type":"ImageObject","@id":"https://softechcomputers.org.in/wp-content/uploads/2020/11/python.png","url":"https://softechcomputers.org.in/wp-content/uploads/2020/11/python.png","width":"200","height":"200","inLanguage":"en-US"},{"@type":"Person","@id":"https://softechcomputers.org.in/author/softechadmin/","name":"softechadmin","url":"https://softechcomputers.org.in/author/softechadmin/","image":{"@type":"ImageObject","@id":"https://softechcomputers.org.in/wp-content/plugins/ultimate-member/assets/img/default_avatar.jpg","url":"https://softechcomputers.org.in/wp-content/plugins/ultimate-member/assets/img/default_avatar.jpg","caption":"softechadmin","inLanguage":"en-US"},"sameAs":["https://softechcomputers.org.in"],"worksFor":{"@id":"https://softechcomputers.org.in/#organization"}},{"@type":"WebPage","@id":"https://softechcomputers.org.in/#webpage","url":"https://softechcomputers.org.in/","name":"Home Page - Softech Computers","datePublished":"2020-09-08T11:20:20+00:00","dateModified":"2021-05-18T10:57:56+00:00","author":{"@id":"https://softechcomputers.org.in/author/softechadmin/"},"isPartOf":{"@id":"https://softechcomputers.org.in/#website"},"primaryImageOfPage":{"@id":"https://softechcomputers.org.in/wp-content/uploads/2020/11/python.png"},"inLanguage":"en-US"}]}</script>
 <!-- /Rank Math WordPress SEO plugin -->
 
-<link rel='dns-prefetch' href='../s.w.org/index.html' />
+<link rel='dns-prefetch' href='index-3.html' />
 <link rel="alternate" type="application/rss+xml" title="Softech Computers &raquo; Feed" href="feed/index.html" />
 <link rel="alternate" type="application/rss+xml" title="Softech Computers &raquo; Comments Feed" href="comments/feed/index.html" />
 		<script type="text/javascript">
@@ -93,7 +93,7 @@ img.emoji {
 <link rel='stylesheet' id='um_responsive-css'  href='wp-content/plugins/ultimate-member/assets/css/um-responsive7e68.css?ver=2.1.12' type='text/css' media='all' />
 <link rel='stylesheet' id='um_default_css-css'  href='wp-content/plugins/ultimate-member/assets/css/um-old-default7e68.css?ver=2.1.12' type='text/css' media='all' />
 <link rel='stylesheet' id='oe-widgets-style-css'  href='wp-content/plugins/ocean-extra/assets/css/widgets9f31.css?ver=5.7.2' type='text/css' media='all' />
-<link rel='stylesheet' id='google-fonts-1-css'  href='../fonts.googleapis.com/css48a6.css?family=Lato%3A100%2C100italic%2C200%2C200italic%2C300%2C300italic%2C400%2C400italic%2C500%2C500italic%2C600%2C600italic%2C700%2C700italic%2C800%2C800italic%2C900%2C900italic%7CPoppins%3A100%2C100italic%2C200%2C200italic%2C300%2C300italic%2C400%2C400italic%2C500%2C500italic%2C600%2C600italic%2C700%2C700italic%2C800%2C800italic%2C900%2C900italic%7CRoboto%3A100%2C100italic%2C200%2C200italic%2C300%2C300italic%2C400%2C400italic%2C500%2C500italic%2C600%2C600italic%2C700%2C700italic%2C800%2C800italic%2C900%2C900italic%7CRoboto+Slab%3A100%2C100italic%2C200%2C200italic%2C300%2C300italic%2C400%2C400italic%2C500%2C500italic%2C600%2C600italic%2C700%2C700italic%2C800%2C800italic%2C900%2C900italic%7CDM+Serif+Display%3A100%2C100italic%2C200%2C200italic%2C300%2C300italic%2C400%2C400italic%2C500%2C500italic%2C600%2C600italic%2C700%2C700italic%2C800%2C800italic%2C900%2C900italic&amp;display=auto&amp;ver=5.7.2' type='text/css' media='all' />
+<link rel='stylesheet' id='google-fonts-1-css'  href='css48a6.css?family=Lato%3A100%2C100italic%2C200%2C200italic%2C300%2C300italic%2C400%2C400italic%2C500%2C500italic%2C600%2C600italic%2C700%2C700italic%2C800%2C800italic%2C900%2C900italic%7CPoppins%3A100%2C100italic%2C200%2C200italic%2C300%2C300italic%2C400%2C400italic%2C500%2C500italic%2C600%2C600italic%2C700%2C700italic%2C800%2C800italic%2C900%2C900italic%7CRoboto%3A100%2C100italic%2C200%2C200italic%2C300%2C300italic%2C400%2C400italic%2C500%2C500italic%2C600%2C600italic%2C700%2C700italic%2C800%2C800italic%2C900%2C900italic%7CRoboto+Slab%3A100%2C100italic%2C200%2C200italic%2C300%2C300italic%2C400%2C400italic%2C500%2C500italic%2C600%2C600italic%2C700%2C700italic%2C800%2C800italic%2C900%2C900italic%7CDM+Serif+Display%3A100%2C100italic%2C200%2C200italic%2C300%2C300italic%2C400%2C400italic%2C500%2C500italic%2C600%2C600italic%2C700%2C700italic%2C800%2C800italic%2C900%2C900italic&amp;display=auto&amp;ver=5.7.2' type='text/css' media='all' />
 <link rel='stylesheet' id='elementor-icons-shared-0-css'  href='wp-content/plugins/elementor/assets/lib/font-awesome/css/fontawesome.min9e0b.css?ver=5.15.1' type='text/css' media='all' />
 <link rel='stylesheet' id='elementor-icons-fa-solid-css'  href='wp-content/plugins/elementor/assets/lib/font-awesome/css/solid.min9e0b.css?ver=5.15.1' type='text/css' media='all' />
 <link rel='stylesheet' id='elementor-icons-fa-brands-css'  href='wp-content/plugins/elementor/assets/lib/font-awesome/css/brands.min9e0b.css?ver=5.15.1' type='text/css' media='all' />
@@ -143,7 +143,7 @@ img.emoji {
 <link rel="https://api.w.org/" href="wp-json/index.html" /><link rel="alternate" type="application/json" href="wp-json/wp/v2/pages/6.json" /><link rel="EditURI" type="application/rsd+xml" title="RSD" href="xmlrpc0db0.php?rsd" />
 <link rel="wlwmanifest" type="application/wlwmanifest+xml" href="wp-includes/wlwmanifest.xml" /> 
 <meta name="generator" content="WordPress 5.7.2" />
-<link rel='shortlink' href='index.html' />
+<link rel='shortlink' href='index-2.html' />
 <link rel="alternate" type="application/json+oembed" href="wp-json/oembed/1.0/embed9b8a.json?url=https%3A%2F%2Fsoftechcomputers.org.in%2F" />
 <link rel="alternate" type="text/xml+oembed" href="wp-json/oembed/1.0/embedee84?url=https%3A%2F%2Fsoftechcomputers.org.in%2F&amp;format=xml" />
 <style type='text/css'> .ae_data .elementor-editor-element-setting {
@@ -259,7 +259,7 @@ img.emoji {
 						<div class="elementor-element elementor-element-776ce229 elementor-widget elementor-widget-image" data-id="776ce229" data-element_type="widget" data-widget_type="image.default">
 				<div class="elementor-widget-container">
 								<div class="elementor-image">
-													<a href="index.html">
+													<a href="index-2.html">
 							<img width="804" height="337" src="wp-content/uploads/2020/09/logo.png" class="attachment-large size-large" alt="" loading="lazy" srcset="https://softechcomputers.org.in/wp-content/uploads/2020/09/logo.png 804w, https://softechcomputers.org.in/wp-content/uploads/2020/09/logo-300x126.png 300w, https://softechcomputers.org.in/wp-content/uploads/2020/09/logo-768x322.png 768w" sizes="(max-width: 804px) 100vw, 804px" />								</a>
 														</div>
 						</div>
@@ -275,7 +275,7 @@ img.emoji {
 			<div class="ekit-wid-con ekit_menu_responsive_tablet" data-hamburger-icon="" data-hamburger-icon-type="icon" data-responsive-breakpoint="1024">            <button class="elementskit-menu-hamburger elementskit-menu-toggler">
                                     <span class="elementskit-menu-hamburger-icon"></span><span class="elementskit-menu-hamburger-icon"></span><span class="elementskit-menu-hamburger-icon"></span>
                             </button>
-            <div id="ekit-megamenu-main-menu" class="elementskit-menu-container elementskit-menu-offcanvas-elements elementskit-navbar-nav-default elementskit_line_arrow ekit-nav-menu-one-page-no"><ul id="main-menu" class="elementskit-navbar-nav elementskit-menu-po-right submenu-click-on-icon"><li id="menu-item-225" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-home current-menu-item page_item page-item-6 current_page_item menu-item-225 nav-item elementskit-mobile-builder-content active" data-vertical-menu=750px><a href="index.html" class="ekit-menu-nav-link active">Home</a></li>
+            <div id="ekit-megamenu-main-menu" class="elementskit-menu-container elementskit-menu-offcanvas-elements elementskit-navbar-nav-default elementskit_line_arrow ekit-nav-menu-one-page-no"><ul id="main-menu" class="elementskit-navbar-nav elementskit-menu-po-right submenu-click-on-icon"><li id="menu-item-225" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-home current-menu-item page_item page-item-6 current_page_item menu-item-225 nav-item elementskit-mobile-builder-content active" data-vertical-menu=750px><a href="index-2.html" class="ekit-menu-nav-link active">Home</a></li>
 <li id="menu-item-849" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-849 nav-item elementskit-dropdown-has relative_position elementskit-dropdown-menu-default_width elementskit-mobile-builder-content" data-vertical-menu=750px><a href="#" class="ekit-menu-nav-link ekit-menu-dropdown-toggle">About Us<i class="icon icon-down-arrow1 elementskit-submenu-indicator"></i></a>
 <ul class="elementskit-dropdown elementskit-submenu-panel">
 	<li id="menu-item-791" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-791 nav-item elementskit-mobile-builder-content" data-vertical-menu=750px><a href="about-us/index.html" class=" dropdown-item">Our Motto</a>	<li id="menu-item-793" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-793 nav-item elementskit-mobile-builder-content" data-vertical-menu=750px><a href="#visionmission" class=" dropdown-item">Vision &#038; Mission</a>	<li id="menu-item-852" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-852 nav-item elementskit-mobile-builder-content" data-vertical-menu=750px><a href="#ourstory" class=" dropdown-item">Our Story</a>	<li id="menu-item-853" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-853 nav-item elementskit-mobile-builder-content" data-vertical-menu=750px><a href="#valuesoffered" class=" dropdown-item">Values Offered</a>	<li id="menu-item-794" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-794 nav-item elementskit-mobile-builder-content" data-vertical-menu=750px><a href="#whysoftech" class=" dropdown-item">Why Softech?</a></ul>
@@ -290,7 +290,7 @@ img.emoji {
 </ul>
 				<div class="elementskit-nav-identity-panel">
 					<div class="elementskit-site-title">
-						<a class="elementskit-nav-logo" href="index.html" target="_self" rel="">
+						<a class="elementskit-nav-logo" href="index-2.html" target="_self" rel="">
 							<img src="wp-content/uploads/2020/09/logo.svg" alt="">
 						</a>
 					</div>
@@ -323,9 +323,9 @@ img.emoji {
 							<div class="elementor-widget-wrap">
 						<div class="elementor-element elementor-element-98c7608 elementor-widget elementor-widget-wp-widget-horizontal-scrolling-announcements" data-id="98c7608" data-element_type="widget" data-widget_type="wp-widget-horizontal-scrolling-announcements.default">
 				<div class="elementor-widget-container">
-			<div class='marquee-hsas-widget-89' style='width: 100%;overflow: hidden;'>&nbsp;&nbsp;&nbsp;Online and offline classes have begun!&nbsp;&nbsp;&nbsp;Attend demo class for free.
+			<div class='marquee-hsas-widget-87' style='width: 100%;overflow: hidden;'>&nbsp;&nbsp;&nbsp;Online and offline classes have begun!&nbsp;&nbsp;&nbsp;Attend demo class for free.
 &nbsp;&nbsp;&nbsp;Learn from the best to become the best!&nbsp;&nbsp;&nbsp;Softech has 3 decades of experience in training students.
-&nbsp;&nbsp;&nbsp;తెలంగాణాలో కెల్లా అతి పెద్ద కంప్యూటర్ విద్యా సంస్థ!&nbsp;&nbsp;&nbsp;కంప్యూటర్ నేర్చుకోండి - మీ జీవితాన్ని మార్చుకోండి!</div><script>jQuery(function(){jQuery('.marquee-hsas-widget-89').marquee({allowCss3Support: true,css3easing: 'linear',easing: 'linear',delayBeforeStart: 2000,direction: 'left',duplicated: true,duration: 20000,gap: 50,pauseOnCycle: true,pauseOnHover: true,startVisible: true});});</script>		</div>
+&nbsp;&nbsp;&nbsp;తెలంగాణాలో కెల్లా అతి పెద్ద కంప్యూటర్ విద్యా సంస్థ!&nbsp;&nbsp;&nbsp;కంప్యూటర్ నేర్చుకోండి - మీ జీవితాన్ని మార్చుకోండి!</div><script>jQuery(function(){jQuery('.marquee-hsas-widget-87').marquee({allowCss3Support: true,css3easing: 'linear',easing: 'linear',delayBeforeStart: 2000,direction: 'left',duplicated: true,duration: 20000,gap: 50,pauseOnCycle: true,pauseOnHover: true,startVisible: true});});</script>		</div>
 				</div>
 						</div>
 					</div>
@@ -737,7 +737,7 @@ img.emoji {
 				<div class="elementor-widget-container">
 			<div class="ekit-wid-con" >		<div class="elementor-icon-list-items ">
 							<div class="elementor-icon-list-item   " >
-					<a  target=_blank rel=""  href="index.html" class="elementor-repeater-item-b8b3752 ekit_badge_left">
+					<a  target=_blank rel=""  href="index-2.html" class="elementor-repeater-item-b8b3752 ekit_badge_left">
 						<div class="ekit_page_list_content">
 															<span class="elementor-icon-list-icon">
 									<i aria-hidden="true" class="fas fa-check"></i>								</span>
@@ -887,7 +887,7 @@ img.emoji {
 	
 	<div id="mobile-nav" class="navigation clr">
 
-		<ul id="menu-footer-menu" class="mobile-menu dropdown-menu"><li id="menu-item-1270" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-home current-menu-item page_item page-item-6 current_page_item menu-item-1270"><a href="index.html" aria-current="page">Home Page</a></li>
+		<ul id="menu-footer-menu" class="mobile-menu dropdown-menu"><li id="menu-item-1270" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-home current-menu-item page_item page-item-6 current_page_item menu-item-1270"><a href="index-2.html" aria-current="page">Home Page</a></li>
 <li id="menu-item-1271" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1271"><a href="about-us/index.html">About Us</a></li>
 <li id="menu-item-1272" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1272"><a href="gallery/index.html">Gallery</a></li>
 <li id="menu-item-1273" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1273"><a href="get-in-touch/index.html">Get in touch</a></li>
@@ -1005,7 +1005,7 @@ wp.i18n.setLocaleData( { 'text direction\u0004ltr': [ 'ltr' ] } );
 <script type='text/javascript' src='wp-content/plugins/ultimate-member/assets/js/um-conditional.min7e68.js?ver=2.1.12' id='um_conditional-js'></script>
 <script type='text/javascript' id='um_scripts-js-extra'>
 /* <![CDATA[ */
-var um_scripts = {"nonce":"4affe62400"};
+var um_scripts = {"nonce":"1df1e7ca7e"};
 /* ]]> */
 </script>
 <script type='text/javascript' src='wp-content/plugins/ultimate-member/assets/js/um-scripts.min7e68.js?ver=2.1.12' id='um_scripts-js'></script>
@@ -1041,5 +1041,5 @@ var elementorFrontendConfig = {"environmentMode":{"edit":false,"wpPreview":false
 		</script>
 	</body>
 
-<!-- Mirrored from softechcomputers.org.in/ by HTTrack Website Copier/3.x [XR&CO'2014], Wed, 09 Jun 2021 11:21:27 GMT -->
+<!-- Mirrored from softechcomputers.org.in/ by HTTrack Website Copier/3.x [XR&CO'2014], Wed, 09 Jun 2021 12:49:52 GMT -->
 </html>
